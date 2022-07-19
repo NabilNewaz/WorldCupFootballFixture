@@ -20,7 +20,7 @@ body{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     column-gap: 15px;
-    width: 74rem;
+    width: 76rem;
     height: 646px;
     border-radius: 30px;
     margin-top: 1%;
