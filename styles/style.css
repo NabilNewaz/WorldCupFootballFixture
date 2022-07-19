@@ -20,7 +20,7 @@ body{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     column-gap: 15px;
-    /* width: 1321px; */
+    width: 74rem;
     height: 646px;
     border-radius: 30px;
     margin-top: 1%;
@@ -92,6 +92,12 @@ body{
     background: #161616;
     border-radius: 10px;
     margin-top: 100px;
+}
+
+.body-items{
+    display: flex;
+    justify-content: end;
+    width: 82.5rem;
 }
 
 .nav-button .button{
@@ -227,7 +233,7 @@ body{
 }
 
 .footer-social-link .fa-brands{
-    font-size: 30px;
+    font-size: 28px;
     margin-right: 10px;
 }
 
