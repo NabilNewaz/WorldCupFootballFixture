@@ -101,7 +101,12 @@ body{
 }
 
 .nav-button .button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
     font-family: 'Poppins';
+    text-align: center;
     font-weight: 500;
     width: 252px;
     height: 64px;  
