@@ -80,6 +80,8 @@ body{
     width:100%;
 }
 
+/* Banner animation style  */
+
 #banner-img img {
     position:absolute;
     left:0;
@@ -128,7 +130,7 @@ body{
     animation-direction: alternate;
 }
 
-/* Nav button */
+/* side Nav button */
 
 #body-section{
     display: flex;
